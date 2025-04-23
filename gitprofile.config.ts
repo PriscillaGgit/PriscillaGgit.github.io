@@ -83,20 +83,17 @@ const CONFIG = {
       'https://github.com/PriscillaGgit/PriscillaGgit.github.io/rob/main/PriscillaGCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'R',
+    'Python',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Android Mobile App development',
+    'Bioinformatics',
+    'BioPac',
     'MySQL',
-    'PostgreSQL',
+    'Excel',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'BLAST',
+    'Ubuntu',
   ],
   experiences: [
     {
@@ -124,18 +121,12 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University, Stanislaus',
+      degree: 'B.S Biological Sciences',
+      from: '2021',
+      to: '2025',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
+    {,
   publications: [
     {
       title: 'Publication Title',
