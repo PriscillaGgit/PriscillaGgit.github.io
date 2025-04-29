@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       company: 'American Red Cross Heart of the Valley',
-      position: 'Blood Donar Ambassador',
+      position: 'Blood Donor Ambassador',
       from: 'April 2024',
       to: 'Jan 2025',
       companyLink: 'https://www.redcross.org/local/california/northern-california-coastal/about-us/locations/heart-of-the-valley.html?srsltid=AfmBOoqQQWhbYAfbfmsVou6Sh9dOY6_AwBbzFZYmHS8M6HsFZVw7rRSr',
