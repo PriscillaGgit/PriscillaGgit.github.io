@@ -35,18 +35,18 @@ const CONFIG = {
         {
           title: 'Plasmodium falciparum',
           description:
-            'This is a research presentation of plasmodium spcies, with case studies.',
+            'This is a research presentation of plasmodium species, with case studies.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/parasite%20image.png',
+          link: 'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/Plasmodium%20falciparum.pdf',
         },
         {
           title: 'A Descriptive Study of CSU Stanislaus Students Experiences surrounding Secondhand Smoke Exposure',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Creation of tolerance scale, understanding tolerance based on environmental and childhood factors.',
           imageUrl:
-            'https://github.com/PriscillaGgit/PriscillaGgit.github.io/blob/main/Poster%20Presentation.pdf',
-          link: 'https://github.com/PriscillaGgit/PriscillaGgit.github.io/blob/main/Poster%20Presentation.pdf',
+            'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/poster%20image.png',
+          link: 'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/Poster%20Presentation.pdf',
         },
       ],
     },
