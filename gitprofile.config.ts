@@ -147,7 +147,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcement',
       authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar',
-      link: 'https://example.com',
+      link: 'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/MRA%20Paper%20Elizabethkingia%20miricola%20manuscript%20draft.pdf',
       description:
         'Draft manuscript in the works of being published: Elizabethkingia miricola DSM 14571 is a Gram-negative opportunistic and antibiotic-resistant human pathogen Isolated from a Russian space station. The genome contains 4,064 genes, including virulence factors and secondary metabolic clusters. This research could offer further insight into pathogenicity, environmental resilience, resistance mechanisms, and zoonotic risks.',
     },
