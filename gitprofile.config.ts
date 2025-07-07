@@ -96,19 +96,20 @@ const CONFIG = {
     'Ubuntu',
   ],
   experiences: [
-    {
-      company: 'SVFSI CASA, CSU Stanislaus',
-      position: 'Research Scholar',
-      from: 'Summer 2024',
-      to: 'Present',
-      companyLink: 'https://www.csustan.edu/casa/svfsi',
-    },
+    
     {
       company: 'Toulumne County Public Health Department',
       position: 'Cessation Intern',
       from: 'January 2025',
       to: 'Present',
       companyLink: 'https://www.tuolumnecounty.ca.gov/250/Public-Health',
+    },
+    {
+      company: 'SVFSI CASA, CSU Stanislaus',
+      position: 'Research Scholar',
+      from: 'Summer 2024',
+      to: 'May 2025',
+      companyLink: 'https://www.csustan.edu/casa/svfsi',
     },
     {
       company: 'American Red Cross Heart of the Valley',
