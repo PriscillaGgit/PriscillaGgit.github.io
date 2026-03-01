@@ -76,7 +76,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.PriscillaGgit.github.io',
     phone: '',
-    email: 'punsketti@gmail.com',
+    email: 'priscillagwork@gmail.com',
   },
   resume: {
     fileUrl:
@@ -96,12 +96,18 @@ const CONFIG = {
     'Ubuntu',
   ],
   experiences: [
-    
+     {
+      company: 'California State University, Stanislaus',
+      position: 'Graduate Teaching Fellow',
+      from: 'August 2025',
+      to: 'Present',
+      companyLink: 'https://careers.csustan.edu/en-us/listing/',
+    },
     {
       company: 'Toulumne County Public Health Department',
       position: 'Cessation Intern',
       from: 'January 2025',
-      to: 'Present',
+      to: 'August 2025',
       companyLink: 'https://www.tuolumnecounty.ca.gov/250/Public-Health',
     },
     {
@@ -149,6 +155,15 @@ const CONFIG = {
     },
     ],
   publications: [
+    {
+      title: ' Draft Genome Sequences of Three Bacteria with Antimicrobial Activity Isolated From Pond Sediment on a University Campus ',
+      conferenceName: '',
+      journalName: 'Microbiology Resource Announcement',
+      authors: ' Holly Moffett , Naomi Inthirath , Jessica Mojica , Delia Moreno , Marcos Martinez , Taylor Hedley , Arielle Names , Cassandra M Haakma , Priscilla J Garcia , Ally Watkins , Dr. Tricia A. Van Laar',
+      link: '',
+      description:
+        'Manuscript currently under review for publushing. We isolated three organisms from pond sediment with activity against Bacillus subtilis and/or Staphylococcus aureus. These isolates were sequenced and identified as Priestia megaterium, Pseudomonas aeruginosa, and a Pseudomonas sp. in the putida group. Each isolate contains one or more biosynthetic gene clusters potentially contributing to the observed antimicrobial phenotype.',
+    },
     {
       title: 'Genome Sequence of the Antibiotic-Resistant Pathogen Elizabethkingia miricola DSM 14571 Isolated from a Russian Space Station',
       conferenceName: '',
