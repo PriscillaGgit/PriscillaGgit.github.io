@@ -85,7 +85,8 @@ const CONFIG = {
   skills: [
     'R',
     'Python',
-    'JavaScript',
+    'Java',
+    'VSCode',
     'Android Mobile App development',
     'Bioinformatics',
     'BioPac',
@@ -94,6 +95,8 @@ const CONFIG = {
     'Git',
     'BLAST',
     'Ubuntu',
+    'Maya Autodesk',
+    'QGIS',
   ],
   experiences: [
      {
