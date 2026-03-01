@@ -168,7 +168,7 @@ const CONFIG = {
       authors: ' Holly Moffett , Naomi Inthirath , Jessica Mojica , Delia Moreno , Marcos Martinez , Taylor Hedley , Arielle Names , Cassandra M Haakma , Priscilla J Garcia , Ally Watkins , Dr. Tricia A. Van Laar',
       link: '',
       description:
-        'Manuscript currently under review for publushing. We isolated three organisms from pond sediment with activity against Bacillus subtilis and/or Staphylococcus aureus. These isolates were sequenced and identified as Priestia megaterium, Pseudomonas aeruginosa, and a Pseudomonas sp. in the putida group. Each isolate contains one or more biosynthetic gene clusters potentially contributing to the observed antimicrobial phenotype.',
+        'Manuscript currently under review for publishing. We isolated three organisms from pond sediment with activity against Bacillus subtilis and/or Staphylococcus aureus. These isolates were sequenced and identified as Priestia megaterium, Pseudomonas aeruginosa, and a Pseudomonas sp. in the putida group. Each isolate contains one or more biosynthetic gene clusters potentially contributing to the observed antimicrobial phenotype.',
     },
     {
       title: 'Genome Sequence of the Antibiotic-Resistant Pathogen Elizabethkingia miricola DSM 14571 Isolated from a Russian Space Station',
