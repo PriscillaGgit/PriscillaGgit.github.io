@@ -169,7 +169,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcement',
       authors: ' Holly Moffett , Naomi Inthirath , Jessica Mojica , Delia Moreno , Marcos Martinez , Taylor Hedley , Arielle Names , Cassandra M Haakma , Priscilla J Garcia , Ally Watkins , Dr. Tricia A. Van Laar',
-      link: '',
+      link: 'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/moffett-et-al-2026-draft-genome-sequences-of-three-bacteria-with-antimicrobial-activity-isolated-from-pond-sediment-on.pdf',
       description:
         'Manuscript currently under review for publishing. We isolated three organisms from pond sediment with activity against Bacillus subtilis and/or Staphylococcus aureus. These isolates were sequenced and identified as Priestia megaterium, Pseudomonas aeruginosa, and a Pseudomonas sp. in the putida group. Each isolate contains one or more biosynthetic gene clusters potentially contributing to the observed antimicrobial phenotype.',
     },
