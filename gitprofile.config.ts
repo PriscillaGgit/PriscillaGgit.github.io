@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/PriscillaGgit/PriscillaGgit.github.io/rob/main/PriscillaGCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/PriscillaGgit/PriscillaGgit.github.io/raw/main/PriscillaGCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'R',
